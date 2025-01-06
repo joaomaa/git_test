@@ -1,2 +1,3 @@
 Git is very nice, I'm very learn it
 program | action | destination
+example: git | add | .
